@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sarthak.agase@mail.com**
 
-- 📄 Know about my experiences [resume](https://github.com/SarthakAgase/SarthakAgase.github.io/blob/360e21f2fe734b45557fb91c888e9a957b4a1f54/public/resume/sarthak-agase-resume.pdf)
+- 📄 Know more about me [portfolio website](https://sarthakagase.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
